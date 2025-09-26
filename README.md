@@ -7,6 +7,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloane-j&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### More Of My Personal Favourite Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📰 <a href="https://github.com/Sloane-J/Q-Vault-AdonisJS">Q-Vault Adonis</a> </h3>
+      <p> Past exam questions management system. It allows for the upload and download of past examination questions registered schools built with AdonisJS with EdegeJS</p>
+      <p><code>C#</code></p>
+    </td>
+    <td width="50%">
+      <h3>📽 <a href="https://github.com/Sloane-J/Youtube-Video-Downloader">Youtube Video/Playlist Downloader</a></h3>
+      <p>This too allows the donwload of youtube videos or whole playlists, with preferences for any audio and video quality user may choose</p>
+      <p><code>C#</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗃<a href="https://github.com/Sloane-J/Q-Vault">Q-Vault</a></h3>
+      <p>Past exam questions management system. It allows for the upload and download of past examination questions registered schools built with Laravel, Blade and Livewire</p>
+      <p><code>C#</code></p>
+    </td>
+    <td width="50%">
+      <h3>👨‍💻 <a href="https://github.com/Sloane-J/samueldjr">Portfolio website</a></h3>
+      <p>This is my portfolio website build with Astrojs and React</p>
+      <p><code>C#</code></p>
+    </td>
+  </tr>
+</table>
+
 ###
 <h2 align="left">These are the tools that I use</h2>
 
