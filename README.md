@@ -13,7 +13,7 @@
     <td width="50%">
       <h3>📰 <a href="https://github.com/Sloane-J/Q-Vault-AdonisJS">Q-Vault Adonis</a> </h3>
       <p> Past exam questions management system. It allows for the upload and download of past examination questions registered schools.</p>
-      <p><code>AdonisJS with EdegeJS</code></p>
+      <p><code>AdonisJS with EdgeJS</code></p>
     </td>
     <td width="50%">
       <h3>📽 <a href="https://github.com/Sloane-J/Youtube-Video-Downloader">Youtube Video/Playlist Downloader</a></h3>
