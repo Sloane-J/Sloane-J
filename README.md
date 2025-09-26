@@ -12,25 +12,25 @@
   <tr>
     <td width="50%">
       <h3>📰 <a href="https://github.com/Sloane-J/Q-Vault-AdonisJS">Q-Vault Adonis</a> </h3>
-      <p> Past exam questions management system. It allows for the upload and download of past examination questions registered schools built with AdonisJS with EdegeJS</p>
-      <p><code>C#</code></p>
+      <p> Past exam questions management system. It allows for the upload and download of past examination questions registered schools.</p>
+      <p><code>AdonisJS with EdegeJS</code></p>
     </td>
     <td width="50%">
       <h3>📽 <a href="https://github.com/Sloane-J/Youtube-Video-Downloader">Youtube Video/Playlist Downloader</a></h3>
       <p>This too allows the donwload of youtube videos or whole playlists, with preferences for any audio and video quality user may choose</p>
-      <p><code>C#</code></p>
+      <p><code>Flask</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🗃<a href="https://github.com/Sloane-J/Q-Vault">Q-Vault</a></h3>
-      <p>Past exam questions management system. It allows for the upload and download of past examination questions registered schools built with Laravel, Blade and Livewire</p>
-      <p><code>C#</code></p>
+      <p>Past exam questions management system. It allows for the upload and download of past examination questions registered schools.</p>
+      <p><code>Laravel, Blade and Livewire</code></p>
     </td>
     <td width="50%">
       <h3>👨‍💻 <a href="https://github.com/Sloane-J/samueldjr">Portfolio website</a></h3>
-      <p>This is my portfolio website build with Astrojs and React</p>
-      <p><code>C#</code></p>
+      <p>This is my portfolio website</p>
+      <p><code>Astrojs & Reactjs</code></p>
     </td>
   </tr>
 </table>
