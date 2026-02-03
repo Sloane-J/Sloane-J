@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloane-j&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+![Header](./your-header-image-name.png)
+
 ### More Of My Personal Favourite Projects
 <table>
   <tr>
