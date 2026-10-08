@@ -1,35 +1,51 @@
 ![Header](./github-header-banner.png)
 
-<h3 align="center">Hi, I'm Samuel — building under <a href="https://github.com/Sloane-J">Sloane.dev</a> 👋</h3>
-<p align="center">Freelance full-stack developer based in Accra, Ghana. I build production-grade web apps for students, startups, and nonprofits.</p>
+<h3 align="center">Software Developer at <a href="https://samuel-dorkey.vercel.app">Sloane.Dev</a></h3>
 
-<br />
+<p align="center">
+  I design and develop modern web applications, platforms, and digital tools that solve real-world problems. From frontend experiences to backend systems and APIs, I build functional, scalable solutions tailored to their purpose.
+</p>
 
-## 🚀 Favourite Projects
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>📰 <a href="https://github.com/Sloane-J/Q-Vault-AdonisJS">Q-Vault Adonis</a></h3>
-      <p>Past exam questions management system — upload and download past exam papers for registered schools.</p>
-      <p><code>AdonisJS · EdgeJS</code></p>
+    <td colspan="2" width="66%" valign="top">
+      <h3><a href="https://github.com/Sloane-J/Q-Vault-AdonisJS">Q-Vault Adonis</a></h3>
+      <p>A school platform for organizing, uploading, and accessing past examination papers.</p>
+      <p>
+        <code>AdonisJS</code>
+        <code>EdgeJS</code>
+      </p>
     </td>
-    <td width="50%">
-      <h3>📽 <a href="https://github.com/Sloane-J/Youtube-Video-Downloader">YouTube Video/Playlist Downloader</a></h3>
-      <p>Download YouTube videos or full playlists, with choice of audio or video quality.</p>
-      <p><code>Flask</code></p>
+    <td rowspan="2" width="34%" valign="top">
+      <h3><a href="https://github.com/Sloane-J/Youtube-Video-Downloader">YouTube Downloader</a></h3>
+      <p>A web-based tool for downloading videos and playlists with flexible quality options.</p>
+      <p>
+        <code>Python</code>
+        <code>Flask</code>
+      </p>
     </td>
   </tr>
+
   <tr>
-    <td width="50%">
-      <h3>🗃 <a href="https://github.com/Sloane-J/Q-Vault">Q-Vault</a></h3>
-      <p>Past exam questions management system — the original Laravel build.</p>
-      <p><code>Laravel · Blade · Livewire</code></p>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Sloane-J/Q-Vault">Q-Vault</a></h3>
+      <p>The original Laravel implementation of the Q-Vault platform.</p>
+      <p>
+        <code>Laravel</code>
+        <code>Blade</code>
+        <code>Livewire</code>
+      </p>
     </td>
-    <td width="50%">
-      <h3>👨‍💻 <a href="https://github.com/Sloane-J/samueldjr">Portfolio Website</a></h3>
-      <p>My personal portfolio site.</p>
-      <p><code>Astro · React</code></p>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Sloane-J/samueldjr">Portfolio</a></h3>
+      <p>My personal portfolio showcasing projects, skills, and experience.</p>
+      <p>
+        <code>Astro</code>
+        <code>React</code>
+      </p>
     </td>
   </tr>
 </table>
+```
